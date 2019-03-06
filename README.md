@@ -1,0 +1,2 @@
+# SDKStaticFrameworkDemo
+Framework类型的静态库模型
